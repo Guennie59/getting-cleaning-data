@@ -41,7 +41,7 @@ format is guaranteed. This could be ineffective for larger dataframes, but for
 the data volumes here it would not matter 
 9. Changing activity numbers to meaningful activity descriptions from provided file
 10. Now extracting the orginal raw data and the mean values from the complete dataframe
-11. Writing the files as .csv data
+11. Writing the files as .txt data
 12. Returning the dataframe to allow inspection to see if requirements have been met
 
 # Variable details
